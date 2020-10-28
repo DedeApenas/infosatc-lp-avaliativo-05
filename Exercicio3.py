@@ -61,4 +61,4 @@ for x in range(0,4):
                 
     operacoes()
 
-    #NÃO CONSEGUI FAZER A 2 PARTE
+  
